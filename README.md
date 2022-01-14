@@ -23,8 +23,4 @@ Undergrad at Nanyang Technological University.
 
 📫 Reach me at chenliangyudavid@gmail.com
 
-[![c-liangyu's github stats](https://github-readme-stats.vercel.app/api?username=c-liangyu&show_icons=true)](https://github.com/c-liangyu/)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-liangyu&layout=compact)](https://github.com/Christmas/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=c-liangyu&count_private=true&show_icons=true&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-liangyu&layout=compact" height="150">
