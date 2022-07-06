@@ -19,7 +19,7 @@ Research Assistant at Nanyang Technological University.
 
 🔭 Currently working on computer vision and machine learning.
 
-🧑‍💻 I’m looking to collaborate on data/annotation-efficient machine learning, high-level visual understanding and reasoning tasks.
+🧑‍💻 I’m looking to collaborate on human-centered AI, high-level visual understanding and reasoning tasks.
 
 📫 Reach me at chenliangyudavid@gmail.com
 
