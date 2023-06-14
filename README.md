@@ -23,6 +23,6 @@ Research Engineer at Nanyang Technological University.
 
 📫 Reach me at chenliangyudavid@gmail.com
 
-🐦 Twtitter [@liangyu_c](https://twitter.com/liangyu_c)
+🐦 Twtitter [@cliangyu_](https://twitter.com/cliangyu_)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=c-liangyu&count_private=true&show_icons=true&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-liangyu&layout=compact" height="150"> -->
