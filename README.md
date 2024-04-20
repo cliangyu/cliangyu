@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Research Engineer at Nanyang Technological University.
-
-🔭 Currently working on machine learning, computer vision, and natural language processing.
-
-🧑‍💻 I’m looking to collaborate on interactive AI, high-level visual understanding and reasoning tasks.
 
 📫 Reach me at chenliangyudavid@gmail.com
 
