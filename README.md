@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-📫 Reach me at chenliangyudavid@gmail.com
+📫 Reach me at firstname.lastname@stanford.edu
 
 🐦 Twtitter [@cliangyu_](https://twitter.com/cliangyu_)
 
